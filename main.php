@@ -43,4 +43,14 @@
                 .then(data => {
                     const res = document.getElementById('resultado');
                     res.className = data.status || 'erro';
-                    res.innerHTML = '<strong>' + data.m
+                    res.innerHTML = '<strong>' + data.mensagem + '</strong>';
+                })
+                .catch(() => {
+                    const res = document.getElementById('resultado');
+                    res.className = 'erro';
+                    res.innerHTML = '<strong>Erro ao consultar candidato.</strong>';
+                });
+        });
+    </script>
+</body>
+</html>
