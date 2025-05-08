@@ -1,0 +1,153 @@
+[
+    {
+      "cpf": "111.222.333-44",
+      "nome_completo": "Ana Paula Souza",
+      "vaga": "Atendente de SAC",
+      "ex_funcionario": false,
+      "tempo_de_contrato": null,
+      "motivo_encerramento": null,
+      "ano_contrato": null,
+      "ultimo_dia_contrato": null
+    },
+    {
+      "cpf": "999.888.777-66",
+      "nome_completo": "Carlos Roberto Oliveira",
+      "vaga": "Supervisor de Atendimento",
+      "ex_funcionario": true,
+      "tempo_de_contrato": "3 anos e 5 meses",
+      "motivo_encerramento": "Novas oportunidades de liderança",
+      "ano_contrato": 2021,
+      "ultimo_dia_contrato": "2024-06-30"
+    },
+    {
+      "cpf": "222.333.444-55",
+      "nome_completo": "Mariana Costa Ferreira",
+      "vaga": "Atendente de Televendas",
+      "ex_funcionario": false,
+      "tempo_de_contrato": null,
+      "motivo_encerramento": null,
+      "ano_contrato": null,
+      "ultimo_dia_contrato": null
+    },
+    {
+      "cpf": "777.888.999-00",
+      "nome_completo": "Lucas Alves Pereira",
+      "vaga": "Técnico de Suporte (TI)",
+      "ex_funcionario": true,
+      "tempo_de_contrato": "1 ano e 8 meses",
+      "motivo_encerramento": "Mudança para área de desenvolvimento",
+      "ano_contrato": 2023,
+      "ultimo_dia_contrato": "2024-11-15"
+    },
+    {
+      "cpf": "333.444.555-66",
+      "nome_completo": "Isabela Martins Gomes",
+      "vaga": "Analista de Qualidade",
+      "ex_funcionario": false,
+      "tempo_de_contrato": null,
+      "motivo_encerramento": null,
+      "ano_contrato": null,
+      "ultimo_dia_contrato": null
+    },
+    {
+      "cpf": "666.777.888-99",
+      "nome_completo": "Bruno Santos Lima",
+      "vaga": "Atendente de SAC",
+      "ex_funcionario": true,
+      "tempo_de_contrato": "6 meses",
+      "motivo_encerramento": "Não adaptação ao ritmo",
+      "ano_contrato": 2024,
+      "ultimo_dia_contrato": "2024-12-20"
+    },
+    {
+      "cpf": "101.202.303-40",
+      "nome_completo": "Amanda Rodrigues Souza",
+      "vaga": "Treinador de Atendimento",
+      "ex_funcionario": false,
+      "tempo_de_contrato": null,
+      "motivo_encerramento": null,
+      "ano_contrato": null,
+      "ultimo_dia_contrato": null
+    },
+    {
+      "cpf": "909.808.707-60",
+      "nome_completo": "Carlos Alberto Martins",
+      "vaga": "Atendente de Televendas",
+      "ex_funcionario": true,
+      "tempo_de_contrato": "2 anos e 1 mês",
+      "motivo_encerramento": "Busca por comissões maiores",
+      "ano_contrato": 2022,
+      "ultimo_dia_contrato": "2024-03-10"
+    },
+    {
+      "cpf": "121.323.434-50",
+      "nome_completo": "Juliana Costa Pereira",
+      "vaga": "Supervisor de Atendimento",
+      "ex_funcionario": false,
+      "tempo_de_contrato": null,
+      "motivo_encerramento": null,
+      "ano_contrato": null,
+      "ultimo_dia_contrato": null
+    },
+    {
+      "cpf": "515.616.717-80",
+      "nome_completo": "Fernando Alves Lima",
+      "vaga": "Técnico de Suporte (TI)",
+      "ex_funcionario": true,
+      "tempo_de_contrato": "4 anos",
+      "motivo_encerramento": "Abertura do próprio negócio",
+      "ano_contrato": 2019,
+      "ultimo_dia_contrato": "2023-07-05"
+    },
+    // ... (Mais 80 candidatos com dados variados para as vagas mencionadas) ...
+    {
+      "cpf": "876.543.210-34",
+      "nome_completo": "Thiago Souza Almeida",
+      "vaga": "Analista de Qualidade",
+      "ex_funcionario": true,
+      "tempo_de_contrato": "1 ano e 3 meses",
+      "motivo_encerramento": "Mudança de cidade",
+      "ano_contrato": 2023,
+      "ultimo_dia_contrato": "2024-09-25"
+    },
+    {
+      "cpf": "345.678.901-23",
+      "nome_completo": "Fernanda Oliveira Costa",
+      "vaga": "Atendente de SAC",
+      "ex_funcionario": false,
+      "tempo_de_contrato": null,
+      "motivo_encerramento": null,
+      "ano_contrato": null,
+      "ultimo_dia_contrato": null
+    },
+    {
+      "cpf": "765.432.109-87",
+      "nome_completo": "Eduardo Pereira Alves",
+      "vaga": "Treinador de Atendimento",
+      "ex_funcionario": true,
+      "tempo_de_contrato": "2 anos e 7 meses",
+      "motivo_encerramento": "Promoção em outra empresa",
+      "ano_contrato": 2022,
+      "ultimo_dia_contrato": "2024-10-31"
+    },
+    {
+      "cpf": "456.789.012-34",
+      "nome_completo": "Letícia Martins Souza",
+      "vaga": "Atendente de Televendas",
+      "ex_funcionario": false,
+      "tempo_de_contrato": null,
+      "motivo_encerramento": null,
+      "ano_contrato": null,
+      "ultimo_dia_contrato": null
+    },
+    {
+      "cpf": "012.345.678-90",
+      "nome_completo": "Ricardo Gomes Ferreira",
+      "vaga": "Supervisor de Atendimento",
+      "ex_funcionario": true,
+      "tempo_de_contrato": "5 anos",
+      "motivo_encerramento": "Aposentadoria",
+      "ano_contrato": 2019,
+      "ultimo_dia_contrato": "2024-05-10"
+    }
+  ]
