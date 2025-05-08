@@ -38,7 +38,7 @@
             e.preventDefault();
             const cpf = document.getElementById('cpf').value;
 
-            fetch('./test/buscar_candidato.php?cpf=' + encodeURIComponent(cpf))
+            fetch('buscar_candidato.php?cpf=' + encodeURIComponent(cpf))
                 .then(res => res.json())
                 .then(data => {
                     const res = document.getElementById('resultado');
