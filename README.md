@@ -1,2 +1,3 @@
-# -Take_Me_in-PHP-query-For-Help-Users
-um simples jeito de buscar info no db com php
+# Take_Me_In - PHP-query-For-Help-Users
+
+  um simples jeito de buscar info no db com php
